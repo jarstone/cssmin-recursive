@@ -1,0 +1,25 @@
+{
+  "name": "cssmin-recursive",
+  "version": "1.0.0",
+  "description": "Minify css files on a folder recursively.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarstone/cssmin-recursive.git"
+  },
+  "keywords": [
+    "css minify",
+    "esbuild minify",
+    "minify recursive",
+    "cssmin"
+  ],
+  "author": "jarstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarstone/cssmin-recursive/issues"
+  },
+  "homepage": "https://github.com/jarstone/cssmin-recursive#readme",
+  "dependencies": {
+    "esbuild": "^0.13.5"
+  }
+}
