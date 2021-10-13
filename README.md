@@ -20,5 +20,5 @@ cssmin-recursive folderName
 ```
 example:
 ```bash
-cssmin-recursive dist/js
+cssmin-recursive dist/css
 ```
